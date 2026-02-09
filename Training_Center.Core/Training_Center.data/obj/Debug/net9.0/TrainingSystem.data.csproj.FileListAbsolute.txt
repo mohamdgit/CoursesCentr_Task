@@ -9,3 +9,4 @@ C:\Users\HP\source\repos\Training Center\Training_Center.Core\Training_Center.da
 C:\Users\HP\source\repos\Training Center\Training_Center.Core\Training_Center.data\obj\Debug\net9.0\refint\TrainingSystem.data.dll
 C:\Users\HP\source\repos\Training Center\Training_Center.Core\Training_Center.data\obj\Debug\net9.0\TrainingSystem.data.pdb
 C:\Users\HP\source\repos\Training Center\Training_Center.Core\Training_Center.data\obj\Debug\net9.0\ref\TrainingSystem.data.dll
+C:\Users\HP\source\repos\Training Center\Training_Center.Core\Training_Center.data\obj\Debug\net9.0\TrainingSystem.data.sourcelink.json

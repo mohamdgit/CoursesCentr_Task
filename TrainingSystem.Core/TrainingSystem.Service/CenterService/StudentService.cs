@@ -62,6 +62,7 @@ namespace TrainingSystem.Service.CenterService
             var spec = new StudentSpecification(param);
 
             var students =  repo.GetAllSpecification(spec);
+          
             var res = students.Select(s => new GetStudentDto
             {
                 Id = s.Id,
@@ -82,8 +83,15 @@ namespace TrainingSystem.Service.CenterService
 
             }).ToList();
 
+            if (!res.Any())
+            {
+                throw new StudentNotFoundEXception("student you search about is not found");
+            }
+            else
+            {
+                return res;
 
-            return res;
+            }
         }
 
         public async Task<GetStudentwithotcourseDto> GetStudentByIdAsync(int Id)
@@ -104,11 +112,7 @@ namespace TrainingSystem.Service.CenterService
         {
             var repo = uow.GenerateRepo<Student, int>();
             var res = map.Map<UpdateStudentDto, Student>(dto);
-            var student = await GetStudentByIdAsync(dto.Id);
-            if (student is null)
-            {
-                throw new StudentNotFoundEX(dto.Id);
-            }
+           
             repo.Update(res);
             return await uow.SaveChanges();
         }

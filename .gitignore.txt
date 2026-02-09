@@ -1,5 +1,24 @@
-.vs
+# Visual Studio
 .vs/
-**/.vs/
+*.user
+*.suo
+
+# Build folders
 bin/
 obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Temp / Logs
+*.log
+*.db
+*.cache
+
+# Other
+*.pdb
+*.dll
+*.exe

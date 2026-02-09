@@ -24,6 +24,10 @@ namespace TrainingSystem.Persistance.Configrations
                    .WithMany(c => c.CourseInstructors)
                    .HasForeignKey(i => i.CourseId)
                    .OnDelete(DeleteBehavior.Restrict);
+            builder.HasData(
+           new Instructor { Id=20,Name = "Mr. Ali", Email = "ali@example.com", PhoneNumber = "0123456789", CourseId =20 },
+           new Instructor { Id = 30,Name = "Mrs. Mona", Email = "Mona@example.com", PhoneNumber = "0123456789", CourseId =30 }
+           );
         }
     }
 }

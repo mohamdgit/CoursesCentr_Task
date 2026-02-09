@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Training Center\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0AC786-F2A3-404B-934C-8BC65E5E020C}|TrainingSystem.Core\\TrainingSystem.Service\\TrainingSystem.Service.csproj|c:\\users\\hp\\source\\repos\\training center\\trainingsystem.core\\trainingsystem.service\\centerservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0AC786-F2A3-404B-934C-8BC65E5E020C}|TrainingSystem.Core\\TrainingSystem.Service\\TrainingSystem.Service.csproj|solutionrelative:trainingsystem.core\\trainingsystem.service\\centerservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0AC786-F2A3-404B-934C-8BC65E5E020C}|TrainingSystem.Core\\TrainingSystem.Service\\TrainingSystem.Service.csproj|c:\\users\\hp\\source\\repos\\training center\\trainingsystem.core\\trainingsystem.service\\specificationpattern\\studentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0AC786-F2A3-404B-934C-8BC65E5E020C}|TrainingSystem.Core\\TrainingSystem.Service\\TrainingSystem.Service.csproj|solutionrelative:trainingsystem.core\\trainingsystem.service\\specificationpattern\\studentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D59F22-8880-4C8D-AA22-1B8692CAF7BF}|TrainingSystem.Infrastructure\\TrainingSystem.Presentation\\TrainingSystem.Presentation.csproj|c:\\users\\hp\\source\\repos\\training center\\trainingsystem.infrastructure\\trainingsystem.presentation\\controller\\studentcontroller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D59F22-8880-4C8D-AA22-1B8692CAF7BF}|TrainingSystem.Infrastructure\\TrainingSystem.Presentation\\TrainingSystem.Presentation.csproj|solutionrelative:trainingsystem.infrastructure\\trainingsystem.presentation\\controller\\studentcontroller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BDC4FE-7EA5-4EFB-884A-E34E8B441C4B}|TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\TrainingSystem.Persistance.csproj|c:\\users\\hp\\source\\repos\\training center\\trainingsystem.infrastructure\\trainingsystem.persistance\\configurations\\instructorstudentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BDC4FE-7EA5-4EFB-884A-E34E8B441C4B}|TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\TrainingSystem.Persistance.csproj|solutionrelative:trainingsystem.infrastructure\\trainingsystem.persistance\\configurations\\instructorstudentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BDC4FE-7EA5-4EFB-884A-E34E8B441C4B}|TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\TrainingSystem.Persistance.csproj|c:\\users\\hp\\source\\repos\\training center\\trainingsystem.infrastructure\\trainingsystem.persistance\\configurations\\courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BDC4FE-7EA5-4EFB-884A-E34E8B441C4B}|TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\TrainingSystem.Persistance.csproj|solutionrelative:trainingsystem.infrastructure\\trainingsystem.persistance\\configurations\\courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BDC4FE-7EA5-4EFB-884A-E34E8B441C4B}|TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\TrainingSystem.Persistance.csproj|c:\\users\\hp\\source\\repos\\training center\\trainingsystem.infrastructure\\trainingsystem.persistance\\configurations\\studentcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BDC4FE-7EA5-4EFB-884A-E34E8B441C4B}|TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\TrainingSystem.Persistance.csproj|solutionrelative:trainingsystem.infrastructure\\trainingsystem.persistance\\configurations\\studentcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Core\\TrainingSystem.Service\\SpecificationPattern\\StudentSpecification.cs",
+              "RelativeDocumentMoniker": "TrainingSystem.Core\\TrainingSystem.Service\\SpecificationPattern\\StudentSpecification.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Core\\TrainingSystem.Service\\SpecificationPattern\\StudentSpecification.cs",
+              "RelativeToolTip": "TrainingSystem.Core\\TrainingSystem.Service\\SpecificationPattern\\StudentSpecification.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:42:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Core\\TrainingSystem.Service\\CenterService\\StudentService.cs",
+              "RelativeDocumentMoniker": "TrainingSystem.Core\\TrainingSystem.Service\\CenterService\\StudentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Core\\TrainingSystem.Service\\CenterService\\StudentService.cs",
+              "RelativeToolTip": "TrainingSystem.Core\\TrainingSystem.Service\\CenterService\\StudentService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:07:13.536Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -18,6 +69,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Presentation\\Controller\\StudentController\\StudentController.cs",
+              "RelativeDocumentMoniker": "TrainingSystem.Infrastructure\\TrainingSystem.Presentation\\Controller\\StudentController\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Presentation\\Controller\\StudentController\\StudentController.cs",
+              "RelativeToolTip": "TrainingSystem.Infrastructure\\TrainingSystem.Presentation\\Controller\\StudentController\\StudentController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAlwD0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:06:55.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorStudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\InstructorStudentConfiguration.cs",
+              "RelativeDocumentMoniker": "TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\InstructorStudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\InstructorStudentConfiguration.cs",
+              "RelativeToolTip": "TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\InstructorStudentConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:26:53.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\StudentCourseConfiguration.cs",
+              "RelativeDocumentMoniker": "TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\StudentCourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\StudentCourseConfiguration.cs",
+              "RelativeToolTip": "TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\StudentCourseConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:27:09.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\CourseConfigurations.cs",
+              "RelativeDocumentMoniker": "TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\CourseConfigurations.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Training Center\\TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\CourseConfigurations.cs",
+              "RelativeToolTip": "TrainingSystem.Infrastructure\\TrainingSystem.Persistance\\Configurations\\CourseConfigurations.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:26:27.592Z",
+              "EditorCaption": ""
             }
           ]
         }

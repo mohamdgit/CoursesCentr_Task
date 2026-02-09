@@ -23,6 +23,11 @@ namespace TrainingSystem.Persistance.Configrations
                    .WithOne(p => p.Student)
                    .HasForeignKey(p => p.StudentId)
                    .OnDelete(DeleteBehavior.Cascade);
+            builder.HasData(
+          new Student {Id =30,  Name = "Mohamed", Email = "mohamed@example.com", PhoneNumber = "0123456789" },
+          new Student {Id =40,  Name = "Ahmed",   Email = "ahmed@example.com", PhoneNumber = "0123456788" },
+          new Student {Id = 50  ,Name = "Sara",    Email = "sara@example.com", PhoneNumber = "0123456787" }
+      );
         }
     }
 }

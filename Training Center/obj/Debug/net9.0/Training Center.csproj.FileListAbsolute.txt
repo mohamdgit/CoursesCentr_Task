@@ -172,3 +172,4 @@ C:\Users\HP\source\repos\Training Center\Training Center\bin\Debug\net9.0\Micros
 C:\Users\HP\source\repos\Training Center\Training Center\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 C:\Users\HP\source\repos\Training Center\Training Center\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\HP\source\repos\Training Center\Training Center\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\Training Center\Training Center\obj\Debug\net9.0\Training Center.sourcelink.json

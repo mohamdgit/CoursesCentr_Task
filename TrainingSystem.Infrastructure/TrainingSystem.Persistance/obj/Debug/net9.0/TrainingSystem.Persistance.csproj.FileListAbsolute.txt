@@ -19,3 +19,4 @@ C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingS
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Persistance\obj\Debug\net9.0\refint\TrainingSystem.Persistance.dll
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Persistance\obj\Debug\net9.0\TrainingSystem.Persistance.pdb
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Persistance\obj\Debug\net9.0\ref\TrainingSystem.Persistance.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Persistance\obj\Debug\net9.0\TrainingSystem.Persistance.sourcelink.json

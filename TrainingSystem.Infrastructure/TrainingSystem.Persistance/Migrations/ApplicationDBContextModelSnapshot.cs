@@ -34,6 +34,23 @@ namespace TrainingSystem.Persistance.Migrations
                     b.HasIndex("InstructorId");
 
                     b.ToTable("InstructorStudents");
+
+                    b.HasData(
+                        new
+                        {
+                            StudentId = 50,
+                            InstructorId = 30
+                        },
+                        new
+                        {
+                            StudentId = 30,
+                            InstructorId = 20
+                        },
+                        new
+                        {
+                            StudentId = 40,
+                            InstructorId = 20
+                        });
                 });
 
             modelBuilder.Entity("TrainingSystem.data.Models.StudentCourse.StudentCourse", b =>
@@ -49,6 +66,23 @@ namespace TrainingSystem.Persistance.Migrations
                     b.HasIndex("CourseId");
 
                     b.ToTable("StudentCourses");
+
+                    b.HasData(
+                        new
+                        {
+                            StudentId = 30,
+                            CourseId = 10
+                        },
+                        new
+                        {
+                            StudentId = 40,
+                            CourseId = 20
+                        },
+                        new
+                        {
+                            StudentId = 50,
+                            CourseId = 30
+                        });
                 });
 
             modelBuilder.Entity("Training_Center.data.Models.CourseModel.Course", b =>
@@ -70,6 +104,26 @@ namespace TrainingSystem.Persistance.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Courses");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 10,
+                            Name = "C# Basics",
+                            hours = 15
+                        },
+                        new
+                        {
+                            Id = 20,
+                            Name = "ASP.NET Core",
+                            hours = 15
+                        },
+                        new
+                        {
+                            Id = 30,
+                            Name = "EF Core Advanced",
+                            hours = 19
+                        });
                 });
 
             modelBuilder.Entity("Training_Center.data.Models.InstructorModel.Instructor", b =>
@@ -101,6 +155,24 @@ namespace TrainingSystem.Persistance.Migrations
                     b.HasIndex("CourseId");
 
                     b.ToTable("Instructors");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 20,
+                            CourseId = 20,
+                            Email = "ali@example.com",
+                            Name = "Mr. Ali",
+                            PhoneNumber = "0123456789"
+                        },
+                        new
+                        {
+                            Id = 30,
+                            CourseId = 30,
+                            Email = "Mona@example.com",
+                            Name = "Mrs. Mona",
+                            PhoneNumber = "0123456789"
+                        });
                 });
 
             modelBuilder.Entity("Training_Center.data.Models.StudentModels.Student", b =>
@@ -127,6 +199,29 @@ namespace TrainingSystem.Persistance.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Students");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 30,
+                            Email = "mohamed@example.com",
+                            Name = "Mohamed",
+                            PhoneNumber = "0123456789"
+                        },
+                        new
+                        {
+                            Id = 40,
+                            Email = "ahmed@example.com",
+                            Name = "Ahmed",
+                            PhoneNumber = "0123456788"
+                        },
+                        new
+                        {
+                            Id = 50,
+                            Email = "sara@example.com",
+                            Name = "Sara",
+                            PhoneNumber = "0123456787"
+                        });
                 });
 
             modelBuilder.Entity("TrainingSystem.data.Models.InstructorStudent.InstructorStudent", b =>

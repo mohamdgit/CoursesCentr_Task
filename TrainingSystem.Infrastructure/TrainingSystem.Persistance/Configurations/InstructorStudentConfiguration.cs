@@ -27,6 +27,11 @@ namespace TrainingSystem.Persistance.Configurations
                    .WithMany(i => i.InstructorStudents)
                    .HasForeignKey(p => p.InstructorId)
                    .OnDelete(DeleteBehavior.Cascade);
+            builder.HasData(
+           new InstructorStudent { StudentId = 50 , InstructorId = 30 },
+           new InstructorStudent { StudentId =30, InstructorId = 20 },
+           new InstructorStudent { StudentId = 40, InstructorId = 20}
+       );
         }
     }
 }

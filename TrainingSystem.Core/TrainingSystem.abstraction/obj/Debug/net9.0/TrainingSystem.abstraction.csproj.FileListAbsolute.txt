@@ -13,3 +13,4 @@ C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abst
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\refint\TrainingSystem.abstraction.dll
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.pdb
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\ref\TrainingSystem.abstraction.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.sourcelink.json

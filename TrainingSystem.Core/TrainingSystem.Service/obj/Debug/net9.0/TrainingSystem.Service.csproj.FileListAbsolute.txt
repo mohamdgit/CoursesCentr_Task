@@ -17,3 +17,4 @@ C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.Serv
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.Service\obj\Debug\net9.0\refint\TrainingSystem.Service.dll
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.Service\obj\Debug\net9.0\TrainingSystem.Service.pdb
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.Service\obj\Debug\net9.0\ref\TrainingSystem.Service.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.Service\obj\Debug\net9.0\TrainingSystem.Service.sourcelink.json

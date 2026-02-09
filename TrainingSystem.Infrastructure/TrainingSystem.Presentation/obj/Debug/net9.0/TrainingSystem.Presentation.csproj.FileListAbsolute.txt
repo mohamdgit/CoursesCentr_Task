@@ -15,3 +15,4 @@ C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingS
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\refint\TrainingSystem.Presentation.dll
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.pdb
 C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\ref\TrainingSystem.Presentation.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.sourcelink.json

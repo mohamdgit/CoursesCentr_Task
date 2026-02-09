@@ -24,7 +24,10 @@ namespace TrainingSystem.Persistance.Configurations
                    .WithOne(ci => ci.Course)
                    .HasForeignKey(ci => ci.CourseId)
                    .OnDelete(DeleteBehavior.Cascade);
-
+            builder.HasData(
+           new Course { Id = 10, Name = "C# Basics", hours=15 },
+           new Course { Id = 20, Name = "ASP.NET Core", hours = 15 },
+           new Course { Id = 30, Name = "EF Core Advanced", hours = 19 });
         }
     }
 }
