@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\bin\Debug\net9.0\TrainingSystem.Presentation.deps.json
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\bin\Debug\net9.0\TrainingSystem.Presentation.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\bin\Debug\net9.0\TrainingSystem.Presentation.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\bin\Debug\net9.0\TrainingSystem.abstraction.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\bin\Debug\net9.0\TrainingSystem.Shared.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\bin\Debug\net9.0\TrainingSystem.abstraction.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\bin\Debug\net9.0\TrainingSystem.Shared.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.AssemblyInfo.cs
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\Training.CC77C2D9.Up2Date
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\refint\TrainingSystem.Presentation.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\TrainingSystem.Presentation.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Infrastructure\TrainingSystem.Presentation\obj\Debug\net9.0\ref\TrainingSystem.Presentation.dll

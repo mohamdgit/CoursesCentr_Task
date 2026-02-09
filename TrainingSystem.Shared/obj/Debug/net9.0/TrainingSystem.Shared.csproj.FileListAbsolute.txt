@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\bin\Debug\net9.0\TrainingSystem.Shared.deps.json
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\bin\Debug\net9.0\TrainingSystem.Shared.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\bin\Debug\net9.0\TrainingSystem.Shared.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\TrainingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\TrainingSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\TrainingSystem.Shared.AssemblyInfo.cs
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\TrainingSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\TrainingSystem.Shared.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\refint\TrainingSystem.Shared.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\TrainingSystem.Shared.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Shared\obj\Debug\net9.0\ref\TrainingSystem.Shared.dll

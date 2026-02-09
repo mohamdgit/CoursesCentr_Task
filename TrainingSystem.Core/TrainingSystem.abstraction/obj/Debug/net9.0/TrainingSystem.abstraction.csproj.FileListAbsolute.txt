@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\bin\Debug\net9.0\TrainingSystem.abstraction.deps.json
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\bin\Debug\net9.0\TrainingSystem.abstraction.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\bin\Debug\net9.0\TrainingSystem.abstraction.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\bin\Debug\net9.0\TrainingSystem.Shared.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\bin\Debug\net9.0\TrainingSystem.Shared.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.AssemblyInfo.cs
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\Training.CCC03324.Up2Date
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\refint\TrainingSystem.abstraction.dll
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\TrainingSystem.abstraction.pdb
+C:\Users\HP\source\repos\Training Center\TrainingSystem.Core\TrainingSystem.abstraction\obj\Debug\net9.0\ref\TrainingSystem.abstraction.dll

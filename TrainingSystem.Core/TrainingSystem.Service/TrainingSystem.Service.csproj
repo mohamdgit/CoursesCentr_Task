@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Training_Center.Core\Training_Center.data\TrainingSystem.data.csproj" />
+    <ProjectReference Include="..\TrainingSystem.abstraction\TrainingSystem.abstraction.csproj" />
+  </ItemGroup>
+
+</Project>
